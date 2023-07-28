@@ -14,8 +14,8 @@ Please install the following:
 ## Quickstart
 
 ```bash
-git clone https://github.com/ayo-klaytn/klaytn-foundry-starter-kit
-cd klaytn-foundry-starter-kit
+git clone https://github.com/ayo-klaytn/klaytn-foundry-starterkit
+cd klaytn-foundry-starterkit
 forge insatall
 ```
 
