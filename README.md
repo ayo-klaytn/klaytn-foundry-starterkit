@@ -1,4 +1,4 @@
-Klaytn Foundry Starter Kit is a code sample that shows developers how to build, compile, test and deploy smart contracts using the blazing fast development framework, Foundry. 
+Klaytn Foundry Starter Kit is a code sample that shows developers how to build, compile, test and deploy smart contracts using the blazing fast development framework, [Foundry](https://book.getfoundry.sh/). 
 
 ## Getting Started
 ### Requirements
